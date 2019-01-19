@@ -54,5 +54,13 @@ div{
 
 }
 .bot-div{
-
+    width: 48vw;
+    height: 35vh;
+    border: 2px lightgray solid;
+    box-shadow: 2px 2px 2px lightgrey;
+}
+h1{
+    color: blue;
+    text-align: center;
+    margin: 15%;
 }
