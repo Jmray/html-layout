@@ -3,10 +3,14 @@
     border: 0;
     padding: 0;
 }
+main{
+    max-width: 800px;
+    margin: auto;
+}
 
 div{
     height: 25vh;
-    width: 95vw;
+    width: 95%;
     margin: 3vh auto;
 }
 .top-div{
@@ -32,7 +36,7 @@ div{
 }
 .circle{
     height: 90%;
-    width: 15%;
+    width: 17%;
     background-color: blue;
     margin: .75% 3%;
     border-radius: 50%;
