@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-size: 2vw;
+    min-height: 340px;
+}
+
+div{
+    height: 14vh;
+    width: 100%;
+}
+article{
+    height: 28vh;
+}
+article p{
+    width: 70%;
+    height: 21%;
+    position: absolute;
+    left: 50%;
+    top: 17%;
+    margin-left: -33%;
+    font-size: 1em;
+    text-align: left;
+
+    
+    display: block;
+}
+.grey-1 div{
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    left: 1.75%;
+    top: 1.75%;
+}
+.grey-1{
+    background-color: lightgrey;
+
+}
+.blue-3{
+    background-color: cornflowerblue;
+
+}
+.teal-4{
+    background-color: mediumturquoise;
+
+}
+.barf-green-5{
+    background-color: darkkhaki;
+
+}
+.mustard-6{
+    background-color: #D3AE3E;
+}
